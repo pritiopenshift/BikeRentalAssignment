@@ -16,7 +16,7 @@ A US bike-sharing provider BoomBikes has recently suffered considerable dips in 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-Linear Regression algorithm helped to find out statatical relation for "bike rental counts" with rest data captured.
+Linear Regression algorithm helped to find out statistical relation for "bike rental counts" with rest data captured.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
